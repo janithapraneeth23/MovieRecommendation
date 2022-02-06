@@ -1,4 +1,4 @@
-package com.jayurbain.emr.logEMR;
+package com.janitha.mapreduce.movierecommendation;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

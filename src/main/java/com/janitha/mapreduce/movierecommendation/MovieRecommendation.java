@@ -1,4 +1,4 @@
-package com.jayurbain.emr.wordcount;
+package com.janitha.mapreduce.movierecommendation;
 
 import java.io.IOException;
 
